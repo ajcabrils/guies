@@ -12,7 +12,7 @@ Aquesta guia t’explica, pas a pas, com **delegar les teves funcions a un altre
 
 📸 *Captura de pantalla:*
 
-![Configuració de l’usuari](./imatges/01-configuracio-usuari.png)
+![Configuració de l’usuari](./imatges/CAP1.png)
 
 ---
 
@@ -25,7 +25,7 @@ Dins la configuració de l’usuari:
 
 📸 *Captura de pantalla:*
 
-![Delegació de funcions](./captures/02-delegacio-funcions.png)
+![Delegació de funcions](./imatges/CAP2.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ A l’apartat **Delegar funcions a**:
 
 📸 *Captura de pantalla:*
 
-![Selecció de l’usuari](./captures/03-seleccio-usuari.png)
+![Selecció de l’usuari](./imatges/cap3.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ Finalment, **desa els canvis** per activar la delegació.
 
 📸 *Captura de pantalla:*
 
-![Condicions de la delegació](./captures/04-condicions-delegacio.png)
+![Condicions de la delegació](./imatges/cap4.jpg)
 
 ---
 
