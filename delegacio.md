@@ -85,6 +85,7 @@ Finalment, **desa els canvis** per activar la delegació.
 - La delegació només és vàlida dins del període indicat.
 - Pots gestionar la delegació en qualsevol moment des de la configuració de l’usuari.
 - Una delegació ben configurada garanteix la continuïtat del servei.
+- Aquesta delegació únicament la pot fer el **propi usuari** i els administradors.
 
 ---
 
