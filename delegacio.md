@@ -1,6 +1,7 @@
 # 🔁 Guia per activar la delegació de funcions en el Gestiona
 
-Aquesta guia t’explica, pas a pas, com **delegar les teves funcions a un altre usuari** quan no puguis exercir-les temporalment (vacances, baixa, permís, etc.) mitjançant l’aplicació **Gestiona**.
+Aquesta guia t’explica, pas a pas, com **delegar les teves funcions a un altre usuari** quan no les puguis exercir temporalment (vacances, baixa, permís, etc.)
+Aquesta configuració només la pot fer l’usuari que vol delegar el seu accés a Gestiona a una altra persona.
 
 ---
 
